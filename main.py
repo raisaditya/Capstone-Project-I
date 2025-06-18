@@ -11,14 +11,6 @@
 # 4. Mendaftarkan Buku
 # 5. Exit
 
-
-# condition:
-# program dapat mendetect buku tersedia atau tidak
-# user dapat menginput buku sendiri
-# mengembalikan buku dalam tenggat waktu yg ditentukan
-###
-
-
 books = [{'judul' : 'the newcomer',
           'genre' : 'mystery',
           'author': 'keigo yamagito'},
